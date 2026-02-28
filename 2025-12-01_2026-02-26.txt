@@ -1,0 +1,79 @@
+🏆 Rank 1
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 30, 'sma_window': 100, 'ema_window': 120, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=31 | WinRate=54.8% | Total=14.39%
+
+🏆 Rank 2
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 35, 'sma_window': 100, 'ema_window': 120, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=31 | WinRate=54.8% | Total=14.39%
+
+🏆 Rank 3
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 30, 'sma_window': 100, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=31 | WinRate=51.6% | Total=14.29%
+
+🏆 Rank 4
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 35, 'sma_window': 100, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=31 | WinRate=51.6% | Total=14.29%
+
+🏆 Rank 5
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 30, 'sma_window': 150, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.2, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 2, 'required_bear_count': 2}
+Trades=26 | WinRate=50.0% | Total=13.12%
+
+🏆 Rank 6
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 35, 'sma_window': 150, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.2, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 2, 'required_bear_count': 2}
+Trades=26 | WinRate=50.0% | Total=13.12%
+
+🏆 Rank 7
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 30, 'sma_window': 100, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.2, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=31 | WinRate=51.6% | Total=12.68%
+
+🏆 Rank 8
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 35, 'sma_window': 100, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.2, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=31 | WinRate=51.6% | Total=12.68%
+
+🏆 Rank 9
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 30, 'sma_window': 150, 'ema_window': 120, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=26 | WinRate=50.0% | Total=12.19%
+
+🏆 Rank 10
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 35, 'sma_window': 150, 'ema_window': 120, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=26 | WinRate=50.0% | Total=12.19%
+
+🏆 Rank 11
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 30, 'sma_window': 150, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 2, 'required_bear_count': 2}
+Trades=26 | WinRate=46.2% | Total=12.11%
+
+🏆 Rank 12
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 35, 'sma_window': 150, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 2, 'required_bear_count': 2}
+Trades=26 | WinRate=46.2% | Total=12.11%
+
+🏆 Rank 13
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 30, 'sma_window': 150, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=26 | WinRate=46.2% | Total=12.05%
+
+🏆 Rank 14
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 35, 'sma_window': 150, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=26 | WinRate=46.2% | Total=12.05%
+
+🏆 Rank 15
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 30, 'sma_window': 100, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.2, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 2, 'required_bear_count': 2}
+Trades=31 | WinRate=51.6% | Total=11.99%
+
+🏆 Rank 16
+Params: {'macd_greater_threshold': 1.1, 'macd_window': 35, 'sma_window': 100, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.2, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 2, 'required_bear_count': 2}
+Trades=31 | WinRate=51.6% | Total=11.99%
+
+🏆 Rank 17
+Params: {'macd_greater_threshold': 1.4, 'macd_window': 30, 'sma_window': 100, 'ema_window': 120, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=28 | WinRate=53.6% | Total=11.79%
+
+🏆 Rank 18
+Params: {'macd_greater_threshold': 1.4, 'macd_window': 35, 'sma_window': 100, 'ema_window': 120, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=28 | WinRate=53.6% | Total=11.79%
+
+🏆 Rank 19
+Params: {'macd_greater_threshold': 1.4, 'macd_window': 30, 'sma_window': 100, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=28 | WinRate=50.0% | Total=11.69%
+
+🏆 Rank 20
+Params: {'macd_greater_threshold': 1.4, 'macd_window': 35, 'sma_window': 100, 'ema_window': 90, 'entry_rsi': 40, 'exit_rsi': 75, 'tp_ratio': 0.1, 'sl_ratio': 0.8, 'invalid_drawback': 0.8, 'required_bull_count': 3, 'required_bear_count': 2}
+Trades=28 | WinRate=50.0% | Total=11.69%
